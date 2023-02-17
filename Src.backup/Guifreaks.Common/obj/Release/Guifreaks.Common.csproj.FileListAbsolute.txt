@@ -1,0 +1,4 @@
+C:\Users\pgoldbach\Documents\GitHub\Guifreaks-Navisuite\Bin\Guifreaks.Common.dll
+C:\Users\pgoldbach\Documents\GitHub\Guifreaks-Navisuite\Src\Guifreaks.Common\obj\Release\Guifreaks.Common.csproj.AssemblyReference.cache
+C:\Users\pgoldbach\Documents\GitHub\Guifreaks-Navisuite\Src\Guifreaks.Common\obj\Release\Guifreaks.Common.csproj.CoreCompileInputs.cache
+C:\Users\pgoldbach\Documents\GitHub\Guifreaks-Navisuite\Src\Guifreaks.Common\obj\Release\Guifreaks.Common.dll

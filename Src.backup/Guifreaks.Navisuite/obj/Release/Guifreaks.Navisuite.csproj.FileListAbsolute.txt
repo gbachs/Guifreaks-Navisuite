@@ -1,0 +1,17 @@
+C:\Users\pgoldbach\Documents\GitHub\Guifreaks-Navisuite\Bin\CHANGES.TXT
+C:\Users\pgoldbach\Documents\GitHub\Guifreaks-Navisuite\Bin\Guifreaks.Navisuite.dll
+C:\Users\pgoldbach\Documents\GitHub\Guifreaks-Navisuite\Bin\ar\Guifreaks.Navisuite.resources.dll
+C:\Users\pgoldbach\Documents\GitHub\Guifreaks-Navisuite\Bin\nl-nl\Guifreaks.Navisuite.resources.dll
+C:\Users\pgoldbach\Documents\GitHub\Guifreaks-Navisuite\Src\Guifreaks.Navisuite\obj\Release\Guifreaks.Navisuite.csproj.AssemblyReference.cache
+C:\Users\pgoldbach\Documents\GitHub\Guifreaks-Navisuite\Src\Guifreaks.Navisuite\obj\Release\Guifreaks.Navisuite.NaviBandPopup.resources
+C:\Users\pgoldbach\Documents\GitHub\Guifreaks-Navisuite\Src\Guifreaks.Navisuite\obj\Release\Guifreaks.Navisuite.NaviOptionsForm.resources
+C:\Users\pgoldbach\Documents\GitHub\Guifreaks-Navisuite\Src\Guifreaks.Navisuite\obj\Release\Guifreaks.Navisuite.Properties.Resources.resources
+C:\Users\pgoldbach\Documents\GitHub\Guifreaks-Navisuite\Src\Guifreaks.Navisuite\obj\Release\Guifreaks.Navisuite.Resources.Text.resources
+C:\Users\pgoldbach\Documents\GitHub\Guifreaks-Navisuite\Src\Guifreaks.Navisuite\obj\Release\Guifreaks.Navisuite.Resources.Text.ar.resources
+C:\Users\pgoldbach\Documents\GitHub\Guifreaks-Navisuite\Src\Guifreaks.Navisuite\obj\Release\Guifreaks.Navisuite.Resources.Text.nl-nl.resources
+C:\Users\pgoldbach\Documents\GitHub\Guifreaks-Navisuite\Src\Guifreaks.Navisuite\obj\Release\Guifreaks.Navisuite.csproj.GenerateResource.cache
+C:\Users\pgoldbach\Documents\GitHub\Guifreaks-Navisuite\Src\Guifreaks.Navisuite\obj\Release\Guifreaks.Navisuite.csproj.CoreCompileInputs.cache
+C:\Users\pgoldbach\Documents\GitHub\Guifreaks-Navisuite\Src\Guifreaks.Navisuite\obj\Release\ar\Guifreaks.Navisuite.resources.dll
+C:\Users\pgoldbach\Documents\GitHub\Guifreaks-Navisuite\Src\Guifreaks.Navisuite\obj\Release\nl-nl\Guifreaks.Navisuite.resources.dll
+C:\Users\pgoldbach\Documents\GitHub\Guifreaks-Navisuite\Src\Guifreaks.Navisuite\obj\Release\Guifreaks.Navisuite.csproj.CopyComplete
+C:\Users\pgoldbach\Documents\GitHub\Guifreaks-Navisuite\Src\Guifreaks.Navisuite\obj\Release\Guifreaks.Navisuite.dll
